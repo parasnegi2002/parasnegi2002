@@ -1,5 +1,6 @@
-### Hi i am paras negi  👋
-hii.i am paras negi persuing btech computer science from THDC institute of hydro power & technology
+### Hi i am paras negi   👋
+Hii I am paras negi .I am from uttarakhand .Persuing btech computer science from THDC institute of hydro power & technology.
+
 
 
 <!--
@@ -9,7 +10,7 @@ Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on ...Front end development
 - 🌱 I’m currently learning ...HTML , PHP , JAVASCRIPT , CSS
-- 👯 I’m looking to collaborate on ...intresting project
+- 👯 I’m looking to collaborate on ... any intresting project
 <!-- - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about ...anything
 - 📫 How to reach me: ...my email"parasnegi2002@gmail.com"
